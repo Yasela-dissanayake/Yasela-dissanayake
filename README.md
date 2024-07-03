@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Web3.js Ethers.js**
 
-- 📫 How to reach me: <p><a href:"https://yasela.xanvia.co.uk/">My portfolio</a></p>
+- 📫 How to reach me: **https://yasela.xanvia.co.uk/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
