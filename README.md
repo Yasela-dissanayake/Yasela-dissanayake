@@ -1,9 +1,9 @@
 <div align="center">
 
-# 👋 Hey there, I'm Yasela Dissanayake
+# Hey there, I'm Yasela Dissanayake
 
 ### Web & Mobile App Developer · Aspiring Blockchain Enthusiast
-#### BSc (Hons.) Computer Science *(Reading)*
+#### BSc (Hons.) Computer Science
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yasela-dissanayake)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/yasela-dissanayake)
@@ -14,11 +14,14 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 🎓 Currently pursuing my **BSc (Hons.) in Computer Science**
-- 🌱 Diving deep into **Web3.js & Ethers.js** — the decentralized future excites me
-- 💼 Passionate about building clean, scalable **web and mobile applications**
+- 🎓 Currently completed my **BSc (Hons.) in Computer Science**
+- 🎓 I’ve recently completed my **BSc (Hons.) in Computer Science** at the University of Peradeniya
+- 🚀 Currently focusing on **AI** and **blockchain development**, exploring how intelligent systems and decentralized technologies can work together
+- 🌐 Actively building projects using **Web2 (modern web apps)** and **Web3** tools like **Ethers.js**, with a strong interest in real-world decentralized applications
+- 🧠 I enjoy turning complex ideas into **clean, scalable,** and **user-friendly** web/mobile solutions
+- 🔍 Always curious and learning — especially in areas like **smart contracts, dApps,** and AI-driven applications
 - 📫 Reach me at **yasela2014@gmail.com**
 
 ---
