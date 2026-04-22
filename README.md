@@ -16,7 +16,6 @@
 
 ## About Me
 
-- 🎓 Currently completed my **BSc (Hons.) in Computer Science**
 - 🎓 I’ve recently completed my **BSc (Hons.) in Computer Science** at the University of Peradeniya
 - 🚀 Currently focusing on **AI** and **blockchain development**, exploring how intelligent systems and decentralized technologies can work together
 - 🌐 Actively building projects using **Web2 (modern web apps)** and **Web3** tools like **Ethers.js**, with a strong interest in real-world decentralized applications
